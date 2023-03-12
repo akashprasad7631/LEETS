@@ -1,3 +1,3 @@
 # LEETS
-Check out(my letcode id): 
+Check out: 
 https://leetcode.com/akashprasad7631/
