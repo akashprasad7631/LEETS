@@ -23,22 +23,5 @@ public:
             mid=s+(e-s)/2;
         }
         return nums[s];
-                // while(s<=e){
-        //     if(mid+1<nums.size() && nums[mid]>nums[mid+1]){
-        //         return nums[mid+1];
-        //     }
-        //     if(mid-1>=0 && nums[mid]<nums[mid-1]){
-        //         return nums[mid];
-        //     }
-
-        //     if(nums[s]>=nums[mid]){
-        //         e=mid-1;
-        //     }
-        //     else{
-        //         s=mid+1;
-        //     }
-        //     mid=s+(e-s)/2;
-        // }
-        // return nums[0];
     }
 };
